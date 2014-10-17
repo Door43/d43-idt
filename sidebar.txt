@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[idt:home|Door43 (idt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-idt|d43-idt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-idt/archive/master.zip|d43-idt.zip]]
+
+**Recent Changes**
+{{changes>ns = idt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/idt|Ethnologue data]]
+
